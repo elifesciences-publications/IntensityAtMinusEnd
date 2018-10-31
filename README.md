@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Hueschen et al., "NuMA recruits dynein activity to microtubule minus-ends at mitosis". eLife, 2017. http://dx.doi.org/10.7554/eLife.29328
+
+
 # IntensityAtMinusEnd
 
 punctaMeasure.m 
